@@ -4,7 +4,7 @@
 
   A landing page template for a travel website. It is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://keerti1924.github.io/Travel-Tour-Website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/ayushshah-py/Travel-Tour-Website.git"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -28,7 +28,7 @@ Its a travel agency-like landing page design which includes home ,categories, ab
 To view the website, 
 * click [Travel-Tour-Website](https://github.com/ayushshah-py/Travel-Tour-Website.git)
 or 
-* copy the link https://github.com/keerti1924/Travel-Tour-Website.git paste it to your browser and load it.  
+* copy the link https://github.com/ayushshah-py/Travel-Tour-Website.git paste it to your browser and load it.  
 
 ## 🛠 Built With
 
