@@ -26,7 +26,7 @@ Its a travel agency-like landing page design which includes home ,categories, ab
 ## 🚀 Setup/Installation Requirements
 
 To view the website, 
-* click [Travel-Tour-Website](https://github.com/keerti1924/Travel-Tour-Website.git)
+* click [Travel-Tour-Website](https://github.com/ayushshah-py/Travel-Tour-Website.git)
 or 
 * copy the link https://github.com/keerti1924/Travel-Tour-Website.git paste it to your browser and load it.  
 
