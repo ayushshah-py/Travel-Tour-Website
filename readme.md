@@ -14,11 +14,7 @@
 
 
 I created a landing page for a travel website by just using html and css. I tried to make a simple and user friendly interface.
-<br>
-<br>
 
-![Tourest Desktop Demo](preview.jpg "Desktop Demo")
-<br>
 
 Its a travel agency-like landing page design which includes home ,categories, about , popular destinations , activities , newsletter and footer sections and social media links of the travel website.
 
